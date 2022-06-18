@@ -15,3 +15,6 @@ docker tag flask_docker:1.2 abedgm/flask_docker:1.2
 
 
 docker push abedgm/flask_docker:1.2
+
+
+TEEST
